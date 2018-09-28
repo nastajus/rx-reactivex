@@ -1,0 +1,25 @@
+{
+  "name": "rx-reactivex",
+  "version": "1.0.0",
+  "description": "following manual at reactivex.io ",
+  "main": "index.js",
+  "dependencies": {
+    "arithmetic": "^1.0.1",
+    "repeat-string": "^1.6.1",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastajus/rx-reactivex.git"
+  },
+  "author": "ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastajus/rx-reactivex/issues"
+  },
+  "homepage": "https://github.com/nastajus/rx-reactivex#readme"
+}
