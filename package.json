@@ -2,9 +2,10 @@
   "name": "rx-reactivex",
   "version": "1.0.0",
   "description": "following manual at reactivex.io or code examples https://github.com/ReactiveX/rxjs",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "arithmetic": "^1.0.1",
+    "express": "^4.16.3",
     "repeat-string": "^1.6.1",
     "rxjs": "^6.3.3"
   },
